@@ -1,0 +1,10 @@
+DATASET_DIR = './dataset/resize'
+LABELS_CSV = './dataset/labels.csv'
+
+RESIZE_HEIGHT = 180
+RESIZE_WIDTH = 320
+
+BATCH_SIZE = 32
+NUM_WORKERS = 4
+LEARNING_RATE = 1e-4
+EPOCHS = 5

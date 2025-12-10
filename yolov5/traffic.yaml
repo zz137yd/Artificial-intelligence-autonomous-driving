@@ -1,0 +1,6 @@
+path: /home/huins/yolov5/traffic_images
+train: train/images
+val: val/images
+
+nc: 9
+names: ['red', 'yellow', 'green', 'stop_sign', '40_sign', '80_sign', 'start_sign', 'person', 'car']

@@ -1,0 +1,21 @@
+dog
+person
+cat
+tv
+car
+meatballs
+marinara sauce
+tomato soup
+chicken noodle soup
+french onion soup
+chicken breast
+ribs
+pulled pork
+hamburger
+cavity
+40_sign
+stop_sign
+80_sign
+green
+red
+yellow
